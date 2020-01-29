@@ -373,5 +373,4 @@ public class AccountAuthenticator extends AbstractAccountAuthenticator {
 
         return accessToken;
     }
-
 }
